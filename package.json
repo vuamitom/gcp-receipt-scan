@@ -6,7 +6,7 @@
   "author": "Smartbook Inc.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GoogleCloudPlatform/nodejs-docs-samples.git"
+    "url": "https://github.com/vuamitom/gcp-receipt-scan.git"
   },
   "engines": {
     "node": ">=4.3.2"
